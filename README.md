@@ -1,0 +1,5 @@
+- Hi, im introducing my android studios mobile application.
+- It's a history application.
+- I use android studios to create this mobile application.
+- With the help of GitHub.
+- I use the Kotlin coding method.
